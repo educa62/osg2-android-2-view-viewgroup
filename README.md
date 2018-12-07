@@ -5,8 +5,8 @@ OSG batch kedua kali ini bertema tentang pemrograman Android Basic, dimana diper
 
 ## Sample Code Pertemuan 2
 Pertemuan 2 di OSG2 Android Basic membahas tentang penggunaan View dan ViewGroup. Sample code ini berisi:
-- Implementasi Retrofit & GSON
-- Menampilkan data dari API
+- Implementasi View dan ViewGroup
+- Penggunaan LinearLayout, TextView, EditText, RadioGroup, RadioButton, Button
 
 ## Cara mendaftar Online Study Group
 OSG batch 2 sudah ditutup, namun jika tertarik untuk mengikuti OSG batch selanjutnya dengan materi yang lebih beragam, kamu dapat mengikuti Instagram kami ( [@educa62](https://instagram.com/educa62) ) atau melihat di [website kami](https://educa62.com).
