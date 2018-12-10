@@ -1,4 +1,4 @@
-package id.com.educa62.view_and_viewgroup;
+package com.educa62.view_and_viewgroup;
 
 import org.junit.Test;
 

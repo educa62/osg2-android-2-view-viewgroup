@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "id.osg.android_viewviewgroup"
+        applicationId "com.educa62.view_and_viewgroup"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
