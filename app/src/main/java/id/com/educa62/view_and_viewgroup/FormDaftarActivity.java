@@ -1,4 +1,4 @@
-package id.osg.android_viewviewgroup;
+package id.com.educa62.view_and_viewgroup;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
